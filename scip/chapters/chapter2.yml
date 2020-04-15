@@ -1,0 +1,85 @@
+---
+- front: 'What is data abstraction?'
+  back: 'A methodology that enables us to isolate how a compound data object is used from the details of how it is constructed from more primitive data objects'
+  tags: ["chapter2"]
+- front: 'What is the basic idea of data abstraction?'
+  back: 'To structure the programs that are to use compound data objects so that they operate on abstract data.'
+  tags: ["chapter2"]
+- front: 'What is a concrete data representation?'
+  back: 'Data representation independent of the programs that use the data'
+  tags: ["chapter2"]
+- front: 'What is the interface between abstract and concrete data?'
+  back: 'A set of procedures called selectors and constructors that implement the abstract data in terms of concrete representation'
+  tags: ["chapter2"]
+- front: 'In scheme, what is a pair?'
+  back: 'Compound structure constructed with the procedure cons'
+  tags: ["chapter2"]
+- front: 'In scheme, what are data objects constructed from pairs called?'
+  back: 'Primitive procedure called cons'
+  tags: ["chapter2"]
+- front: 'What does the function car do?'
+  back: 'Returns the first value of the pair'
+  tags: ["chapter2"]
+- front: 'What does the function cdr do?'
+  back: 'Returns the last value of the pair'
+  tags: ["chapter2"]
+- front: 'What are data object constructed from pairs called?'
+  back: 'List-structured data'
+  tags: ["chapter2"]
+- front: 'What is the underlying idea of data abstraction?'
+  back: 'To identify for each type of data object a basic set of operations in terms of which all manipulations of data objects of that type will be expressed, and then to only use those operations in manipulating the data.'
+  tags: ["chapter2"]
+- front: 'How are abstraction barriers defined and connect at each level?'
+  back: 'They are defined by procedures at each level which act as the interfaces between each level'
+  tags: ["chapter2"]
+- front: 'What is the advantage of constraining our dependence on the representation to a few interface procedures?'
+  back: 'Helps us design programs as well as modify them, because it allows us to maintain the fliexibility to consider alternate implementations'
+  tags: ["chapter2"]
+- front: 'What is meant by data?'
+  back: 'Data is defined as some collection of selectors and constructors, together, with specified conditions that these procedures must fulfill in order to be a valid representation'
+  tags: ["chapter2"]
+- front: 'The ability to manipulate procedures as objects automatically provides what?'
+  back: 'Provides the ability to represent compound data'
+  tags: ["chapter2"]
+- front: 'What is the closure property of cons?'
+  back: 'The ability to create pairs who elements are pairs'
+  tags: ["chapter2"]
+- front: 'How do you statisfy the closure property?'
+  back: 'If the results of combining things with that operation can themselves be comvined using the same operation'
+  tags: ["chapter2"]
+- front: 'Why is the closure the key to power in any means of combination?'
+  back: 'Because it permits us to create hierarchical structures - structures made up of parts - which themselves are made up of parts'
+  tags: ["chapter2"]
+- front: 'What is a sequence?'
+  back: 'An ordered collection of data objects'
+  tags: ["chapter2"]
+- front: 'What is a sequence of pairs formed by nested conses called?'
+  back: 'A list'
+  tags: ["chapter2"]
+- front: 'What is meant by data?'
+  back: 'Data is defined by some collection of selectors and constructors, together with specified conditions that these procedures must fulfill in order to be a valid representation'
+  tags: ["chapter2"]
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []

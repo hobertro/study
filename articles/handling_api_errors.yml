@@ -1,0 +1,61 @@
+---
+- front: 'When relying on (Sidekiq) retries to solve ephemeral errors, it's imperative that our jobs are what?'
+  back: 'Idempotent'
+  tags: []
+- front: 'Why do jobs need to be idempotent in Sidekiq?'
+  back: 'To be sure there are no additional side effects when the job successful reruns.'
+  tags: []
+- front: 'An increased number of api calls increases our chance of hitting what kind of error?'
+  back: 'Ephemeral'
+  tags: []
+- front: 'Even if our ephemeral error rate is low, we can see a chance of hitting the error in what scenario?'
+  back: 'When there are a large number of increased API calls'
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
