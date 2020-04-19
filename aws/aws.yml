@@ -1,0 +1,151 @@
+---
+- front: 'What is Amazon CloudWatch?'
+  back: 'It is a monitoring and observability service.'
+  tags: [aws]
+- front: 'What data does Amazon CloudWatch provide?'
+  back: 'Data and actionable insights to monitor your applications, optimize resource utilization, unified view of operational health, and response to system-wide performance changes.'
+  tags: [aws]
+- front: 'In what forms does CloudWatch collect monitoring and operational data?'
+  back: 'Logs, metrics, and events'
+  tags: [aws]
+- front: 'What can you do with CloudWatch?'
+  back: 'Detect anomalous behavior, set alarms, visualize logs and metrics side by side, take automated actions, discover insights to keep your applications running smoothly.'
+  tags: [aws]
+- front: 'What is Amazon API Gateway?'
+  back: 'Service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs'
+  tags: [aws]
+- front: 'What is the authorization check in API Gateway?'
+  back: 'It is when you look at some aspect of the request - either an HTTP header or querystring - to identify the caller and either allow or reject the reuqest based on whether the caller may invoke the API'
+  tags: []
+- front: 'What can you do with Amazon CloudWatch logs?'
+  back: 'Monitor, store, and access your log files from Amazon EC2'
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []

@@ -1,0 +1,151 @@
+---
+- front: 'What is a computational process?'
+  back: 'A computational process is an abstract being that inhabits computers'
+  tags: ["chapter 1"]
+- front: 'As processes evolve, what do they manipulate?'
+  back: 'Data'
+  tags: ["chapter 1"]
+- front: 'What is the evolution of a process directed by?'
+  back: 'A pattern of rules called a program'
+  tags: ["chapter 1"]
+- front: 'When describing a (computer) language, what should we pay attention to?'
+  back: 'We should pay attention to the means that the language provides for combining simple ideas to form more complex ideas.'
+  tags: ["chapter 1"]
+- front: 'What are the three mechanisms for a language to combine simple ideas to form more complex ideas?'
+  back: 'Primitive expressions (represents simply entity), Means of combination (which compound elements are built from), and Means of abstraction (which compound elements can be named and manipulated as units).'
+  tags: ["chapter 1"]
+- front: 'In programming, what are the two kinds of elements that we deal with?'
+  back: 'Procedures and data'
+  tags: ["chapter 1"]
+- front: 'What is a combination?'
+  back: 'Expressions that are a delimited list of expressions within parentheses in order to denote procedure application.'
+  tags: ["chapter 1"]
+- front: 'What does it mean to percolate values upward?'
+  back: 'An example of a general kind of process known as tree accumulation.'
+  tags: ["chapter 1"]
+- front: 'What type of objects is recursion good at dealing with?'
+  back: 'Hierarchical, treelike objects'
+  tags: ["chapter 1"]
+- front: 'What is a procedure definition?'
+  back: 'A powerful abstraction technique by which a compound operation can be given a name and then referred to as a unit.'
+  tags: ["chapter 1"]
+- front: 'What is Newtons law of successive approximations?'
+  back: 'WHenever we have a guess y for the value of the square root of a number x, we can perform a simple manipulation to get a better guess by averaging y with x/y.'
+  tags: ["chapter 1"]
+- front: 'What is the difference between applicative-order evaluation and normal-order evaluation?'
+  back: 'The normal-order evaluation fully expands and then reduces while the applicative-order evaluation evaluates the arguments and then apply the method.'
+  tags: ["chapter 1"]
+- front: 'What does it mean for a definition to be recursive?'
+  back: 'The procedure is defined in terms of itself'
+  tags: ["chapter 1"]
+- front: 'What is important about the decomposition strategy?'
+  back: 'It is crucial that each procedure accomplishes an identifiable task that can be used as a module in defining other procedures'
+  tags: ["chapter 1"]
+- front: 'What is a procedure?'
+  back: 'It is a pattern for the local evolution of a computational process'
+  tags: ["chapter 2"]
+- front: 'What is a recursive process?'
+  back: 'A chain of deferred operations where the interpreter has to keep track of the operations to be performed later on.'
+  tags: ["chapter 2"]
+- front: 'What is an iterative process?'
+  back: 'A process whose state can be summarized by a fixed number of state variables, together with a fixed rule that describes how the state variables should be updated as the process moves from state to state and an (optional) end test that specifies conditions under which the process should terminate'
+  tags: ["chapter 2"]
+- front: 'What does it mean for an language implementation to be tail recursive?'
+  back: 'If an iterative process executes in constant space even if the process is a recursive procedure.'
+  tags: ["chapter 2"]
+- front: 'What are procedures that manipulate procedures called?'
+  back: 'Higher-order procedures'
+  tags: ["chapter1"]
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []

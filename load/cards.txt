@@ -1,0 +1,11 @@
+What is System load/CPI load?; Measurement of CPU over or under-utilization in a Linux system, the number of processes which are being executed by the CPI or in waiting state
+What is Load average?; The average system load calculated over a given period of time 1, 5, and 15 minutes
+What is the load average in Linux?; The running average of processes in it's (kernel) execution queue tagged as running or uninterruptiible.
+What do high load averages imply?; High load averages imply that a sytem is overloaded, many processes are waiting for CPU time
+What is a Multi-processor?; Two or more physical CPU's are integrated into a single computer system.
+What is a Multi-core processor?; It is a single phsyical CPU which has at least two or more separate cores that work in parallel. Ex: Dual-core has 2 two processing units.
+What is the problem with a single CPU core?; It can only handle one task at a time.
+What is the advantage of having more than one CPU?; Several programs can be executed simultaneously
+What is the run queue length?; The sum of the number of processes that are currently running plus the number that are waiting (queued) to run
+On a multi-processor system, load is relative to what?; The number of processor cores available.
+For the purpose of sizing up the CPU load value, what matters most?; The total number of cores

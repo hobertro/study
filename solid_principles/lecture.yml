@@ -1,0 +1,61 @@
+---
+- front: 'What does polymorphism give you?'
+  back: 'The ability to create one module calling another and yet have the compile time dependency point against the flow of control.'
+  tags: []
+- front: 'What is polymorphism?'
+  back: ''
+  tags: []
+- front: 'What is the single responsibility principle?'
+  back: 'A class has a single responsibility to change. It only has one reason to change.'
+  tags: []
+- front: 'What is the open-closed principle?'
+  back: 'A class or module should be open for extension but closed for modification. You should be able to change the behavior of the module without changing the module.'
+  tags: []
+- front: 'What is the Liskov substitution principle?'
+  back: 'Derived classes must be usable through the base class interface, without the need for the user to know the difference.'
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []

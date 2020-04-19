@@ -1,0 +1,151 @@
+---
+- front: 'What is a log?'
+  back: 'A log is a append-only, totally-ordered sequence of records ordered by time.'
+  tags: [logs, logging]
+- front: 'What is the purpose of a log?'
+  back: 'It records what happened and when'
+  tags: [logs, logging]
+- front: 'How do databases keep data structures and indexes in sync in the presence of crashes?'
+  back: 'A log to write out information about the records they will be modifying, before applying the changes to all the various data structures it maintains.'
+  tags: [logs, logging]
+- front: 'What does keeping logs help databases do?'
+  back: 'Makes the process of keeping data in sync atomic and more durable.'
+  tags: [logs, logging]
+- front: 'What are the two problems that the log solves?'
+  back: 'Ordering changes and distributing data'
+  tags: [logs, logging]
+- front: 'What does deterministic mean?'
+  back: 'It means that the processing isnt timing dependent and doesnt let any other out of band input influence its results.'
+  tags: [logs, logging]
+- front: 'In the context of distributed programming, what is the purpose of the log?'
+  back: 'To squeeze all the non-determinism out of the input stream to ensure that each replica processing this input stays in sync.'
+  tags: [logs, logging]
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []

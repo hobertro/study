@@ -1,0 +1,91 @@
+---
+- front: "What is System load/CPI load?"
+  back: "Measurement of CPU over or under-utilization in a Linux system, the number of processes which are being executed by the CPI or in waiting state"
+  tags: []
+- front: "What is Load average?"
+  back: "The average system load calculated over a given period of time 1, 5, and 15 minutes"
+  tags: []
+- front: "What is the load average in Linux?"
+  back: "The running average of processes in it's (kernel) execution queue tagged as running or uninterruptiible."
+  tags: []
+- front: "What do high load averages imply?"
+  back: "High load averages imply that a sytem is overloaded, many processes are waiting for CPU time"
+  tags: []
+- front: "What is a Multi-processor?"
+  back: "Two or more physical CPU's are integrated into a single computer system."
+  tags: []
+- front: "What is a Multi-core processor?"
+  back: "It is a single phsyical CPU which has at least two or more separate cores that work in parallel. Ex: Dual-core has 2 two processing units."
+  tags: []
+- front: "What is the problem with a single CPU core?"
+  back: "It can only handle one task at a time."
+  tags: []
+- front: "What is the advantage of having more than one CPU?"
+  back: "Several programs can be executed simultaneously"
+  tags: []
+- front: "What is the run queue length?"
+  back: "The sum of the number of processes that are currently running plus the number that are waiting (queued) to run"
+  tags: []
+- front: "On a multi-processor system, load is relative to what?"
+  back: "The number of processor cores available."
+  tags: []
+- front: "For the purpose of sizing up the CPU load value, what matters most?"
+  back: "The total number of cores"
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []

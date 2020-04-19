@@ -1,0 +1,151 @@
+---
+- front: 'What are the two way to evaluate a stock?'
+  back: 'Fundamental analysis and technical analysis'
+  tags: []
+- front: 'What is the main difference between fundamental analysis and technical analysis?'
+  back: 'You use fundamental analysis to learn about a company and technical analysis to learn about their stock'
+  tags: []
+- front: 'Which companies make the best long term investments?'
+  back: 'Healthy companies'
+  tags: []
+- front: 'What is a companys intrinsic value?'
+  back: 'The price of the stock that a companys stock should sell under normal market conditions'
+  tags: []
+- front: 'What is the most fundamental measure of a companys intrinsic value?'
+  back: 'Its earnings: What you expect it to earn now and what you expect it to earn in the future'
+  tags: []
+- front: 'What do you want to know about a company after you find its intrinsic value?'
+  back: 'Company assets, whether its in debt, and its history of management'
+  tags: []
+- front: 'What happens after you have determined a companys intrinsic value?'
+  back: 'You determine whether it is selling above or below its value'
+  tags: []
+- front: 'What is the main measurement that analysts use to guage trade demand?'
+  back: 'Trading volume of the stock'
+  tags: []
+- front: 'What are the components of technical analysis?'
+  back: 'Price history, computer graph patterns and crowd psychology'
+  tags: []
+- front: 'How do you calculate cash flow per share?'
+  back: 'Companys cash flow dividied number of shares outstanding'
+  tags: []
+- front: 'What is the most popular guage of a companys ability to pay its short term bills?'
+  back: 'Current ratio'
+  tags: []
+- front: 'What is the current ratio?'
+  back: 'How easily a company can deal with unexpected expenses or opportunities.'
+  tags: []
+- front: 'How does one calculate current ratio?'
+  back: 'Divide current assets by current liabilities'
+  tags: []
+- front: 'How do you calculate the dividend yield?'
+  back: 'Annual cash dividend divided by its current price'
+  tags: []
+- front: 'What is earnings per share?'
+  back: 'Takes what a company earned and divides it by the number of stock shares outstanding'
+  tags: []
+- front: 'Earnings per share is subject to what two problems?'
+  back: 'Manipulation and market pressure'
+  tags: []
+- front: 'What is earnings momentum or earnings acceleration?'
+  back: 'When the companys earnings per share increases quarter after quarter at a faster rate.'
+  tags: []
+- front: 'What are earnings surprises?'
+  back: 'Quarterly reports from a company showing either higher or lower earnings per share than expected'
+  tags: []
+- front: 'What is net profit margin?'
+  back: 'A company divides money left over after paying all its expenses by the amount of money it had before paying expenses'
+  tags: []
+- front: 'What does a high profit margin tell you?'
+  back: 'The company is good at managing controlling costs'
+  tags: []
+- front: 'What is price/book ratio?'
+  back: 'It compares stock price to how much the stock is worth right now if somebody liquidated the company'
+  tags: []
+- front: 'What is the Price/Earnings ratio?'
+  back: 'The price of a stock divided by its earnings per share.'
+  tags: []
+- front: 'What is the trailing P/E?'
+  back: 'It uses earnings from the last 12 months'
+  tags: []
+- front: 'What is the foward P/E?'
+  back: 'It uses next years projected earnings from an analyst'
+  tags: []
+- front: 'How do you determine which stock to buy?'
+  back: 'You put the prices of each stock in context with the company earnings. Use a stocks P/E to determine how much youre paying for a companys earning power'
+  tags: []
+- front: 'Why is it riskier to invest in a  high P/E stock than a low P/E stock?'
+  back: 'Because it is more difficult for the high P/E to meet high earnings expectations of its shareholders and analysts'
+  tags: []
+- front: 'How do you calculate price/sales ratio?'
+  back: 'Simply take the companys total market value and divided it by the most recent four quarters of sales revenue'
+  tags: []
+- front: 'How do you calculate current ratio?'
+  back: 'Divide company assets by company liabilities'
+  tags: []
+- front: 'What is the quick ratio?'
+  back: 'Provides an accurate look at a companys ability to deal with short-term needs by dividing only the companys cash and equivalents by its current liabilities'
+  tags: []
+- front: 'What is Return on Equity?'
+  back: 'Shows you the rate of return to shareholders by dividing net income by total shareholders equity'
+  tags: []
+- front: 'What is considered a good return on equity?'
+  back: 'Anything above 20 percent'
+  tags: []
+- front: 'What is a stocks max and min comparison?'
+  back: 'Projected maximum percentage gain compared to its projected minimum percentage gain'
+  tags: []
+- front: 'What is relative price strength?'
+  back: 'Shows you how a stocks price has performed compared to the prices of all other stocks'
+  tags: []
+- front: 'What is a stocks volume a good indicator of?'
+  back: 'How much interest people have in the stock'
+  tags: []
+- front: 'What is a stocks yield?'
+  back: 'The annualized percentage return provided by the dividend'
+  tags: []
+- front: 'What is market valuation of a stock?'
+  back: 'What it trades for on the stock market'
+  tags: []
+- front: 'When does Benjamin Graham recommend buying a stock?'
+  back: 'When an investor buys a stock at a prices near their business valuations.'
+  tags: []
+- front: 'According to Benjamin Graham, what is the margin of safety?'
+  back: 'The difference between a companys business valuation and its market valuation.'
+  tags: []
+- front: 'According to Graham, investors should not buy a stock for no more than how much?'
+  back: '2/3 of its book value.'
+  tags: []
+- front: 'According to Philip Fisher, what type of companies should investors buy?'
+  back: 'Companies that have the ability to grow sales and profits over the years at rates greater than their industry average'
+  tags: []
+- front: 'What is the circle of competence?'
+  back: 'Concentrating on industries that you know'
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []

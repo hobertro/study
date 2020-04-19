@@ -1,0 +1,61 @@
+---
+- front: 'What is the order of abstraction in computer programming?'
+  back: 'Application, High level language (Scheme), Low Level Language (e.g. C), Machine Language / Architecture, Logic gates (true/false functions), Transistors, Quantum Physics'
+  tags: ["lecture 2"]
+- front: 'What is a function?'
+  back: 'A relationship that has 0 or more inputs and has one output. (Everytime you put in the same input, you will get out the same output)'
+  tags: ["lec ture 2"]
+- front: 'Waht is a domain of a function?'
+  back: 'The kinds of things it takes as its arguments'
+  tags: ["lecture 3"]
+- front: 'What is the range of a function?'
+  back: 'The kinds of things it returns as its results'
+  tags: ["lecture 3"]
+- front: 'What is a higher order procedure?'
+  back: 'Represents a higher order function, one that can take functions as arguments and/or returns functions as a result.'
+  tags: ["lecture 3"]
+- front: 'Why do we generalize patterns?'
+  back: 'Generalizing patterns is how we keep our programs from getting really long'
+  tags: ["lecture 3"]
+- front: 'When is a data type the first class of its language?' 
+  back: 'The value of a variable, argument of a procedure, value returned by a procedure, a member of an aggregate, anonymous'
+  tags: ["lecture 4"]
+- front: 'Why is there more than one programming language?'
+  back: 'For implementing different design principles'
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
+- front: ''
+  back: ''
+  tags: []
