@@ -9,3 +9,18 @@ What is fundamental analysis?; Examining a company's health and potential to suc
 What is technical analysis?; Examine the past behavior of the stock price in different market conditions and attempts to predict the stock's future price based on current and projected market conditions and trading volume.
 What do you use fundamental analysis information for?; To learn about the a company
 What do you use technical analysis information for?; To learn about a company's stock
+What is a company's intrinsic value?; The price a stock should sell at under normal market conditions
+What is the most important fundamental measure in determining a company's intrinsic value?; It's earnings: What it is earning now and what you can expect it to earn in the future.
+What is the main measurement for technical analysts use to guage demand?; Trading volume, trend charts, volatility, and small price movements
+How do you calculate cash flow per share?; Cash flow divided by the number of shares outstanding. This lets you see what price you're paying for a share of the company's cash flow.
+How do you calculate the current ratio?; Dividing current assets by current liabilities
+What is the current ratio?; To gauge a company's ability to pay its short-term bills and how easily a company can deal with unexpected expenses or opportunities.
+What is a stock's dividend yield?; Its annual cash dividend divided by its current price
+How do you calculate the dividend yield?; Divide annual dividend by the current price of hte stock
+What is earnings per share?; Takes what a company earned and divides it by the number of stock shares outstanding
+How is earnings per share calculated?; Earnings divided by stock shares outstanding
+What is earnings momentum or earnings acceleration?; When the company's EPS increases quarter after quarter.
+Quarterly reports from a company showing either higher or lower earnings per share than expected are called what?; Earnings surprises
+What is a the company's net profit margin determined by?; Dividing the money left over after paying all its expenses by the amount of money it had before paying expenses
+What does a high profit margin tell you about a company?; The company's management is good at controlling costs
+What is the price/book ratio?; Compares a stock's price to how much the stock is worth right now if someone liquidated the company.
