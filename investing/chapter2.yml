@@ -77,44 +77,44 @@
 - front: "What is the price/book ratio?"
   back: "Compares a stock's price to how much the stock is worth right now if someone liquidated the company."
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "What is the official term of the book value per share?"
+  back: "Book value per share is common sotckholders' equity divided by outstanding shares"
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "What does having a book ratio of less than 1 mean?"
+  back: "You are paying less for the stock than its liquidation value. This is good because if the company goes bankrupt, you should still get your money back"
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "What is considered the king of value measures?"
+  back: "Price Earnings Ratio"
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "How do you calculate Price / Earnings ratio?"
+  back: "It is the price of a stock divided by its earnings per share."
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "What is the difference between trailing P/E amd forward P/E?"
+  back: "Uses earnings from the last 12 months while foward P/E uses next year's projected earnings"
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "What important information does P/E tell you about a company"
+  back: "It tells you which companies are a good buy relative to another's ability to earn per share. Stock price itself is meaning less."
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "What should you use a stock's P/E to determine?"
+  back: "You should use it to determine how much you're paying for a company's earning power"
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "Why is it riskier to invest in a high P/E stock than a low P/E stock?"
+  back: "Because it is more difficult for the high P/E to meet the high earnings expectations of its shareholders and analysts/"
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "What is price / sales ratio?"
+  back: "Price/sales compares price to sales revenue"
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "How do you calculate price/sales?"
+  back: "Take the total market value and divide it by the most recent four quarters of sales revenue"
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "What is the quick ratio?"
+  back: "Provides a more accurate look at a company's ability yo deal with short-term needs by dividing only the company's cash and equivalents by its current liabilities"
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "How do you calculate quick ratio?"
+  back: "Take the companie's Total Current Assets exluding Total Inventories and divide by Total Current Liabilities"
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "What is Return on Equity?"
+  back: "IT shows you the rate of return to shareholders by dividing net income by total shareholders' equity"
   tags: ["chapter2"]
 - front: ""
   back: ""
