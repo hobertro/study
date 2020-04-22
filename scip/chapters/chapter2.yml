@@ -59,11 +59,11 @@
 - front: 'What is meant by data?'
   back: 'Data is defined by some collection of selectors and constructors, together with specified conditions that these procedures must fulfill in order to be a valid representation'
   tags: ["chapter2"]
-- front: ''
-  back: ''
+- front: 'What is the closure property of cons?'
+  back: 'The ability to create pairs whose elements are pairs'
   tags: []
-- front: ''
-  back: ''
+- front: 'What satisfies the closure property?'
+  back: 'When the results of combining things with an operation can themselves be combined using the same operation'
   tags: []
 - front: ''
   back: ''
