@@ -11,7 +11,7 @@ What do you use fundamental analysis information for?; To learn about the a comp
 What do you use technical analysis information for?; To learn about a company's stock
 What is a company's intrinsic value?; The price a stock should sell at under normal market conditions
 What is the most important fundamental measure in determining a company's intrinsic value?; It's earnings: What it is earning now and what you can expect it to earn in the future.
-What is the main measurement for technical analysts use to guage demand?; Trading volume, trend charts, volatility, and small price movements
+What is the main measurement for technical analysts use to gauge demand?; Trading volume, trend charts, volatility, and small price movements
 How do you calculate cash flow per share?; Cash flow divided by the number of shares outstanding. This lets you see what price you're paying for a share of the company's cash flow.
 How do you calculate the current ratio?; Dividing current assets by current liabilities
 What is the current ratio?; To gauge a company's ability to pay its short-term bills and how easily a company can deal with unexpected expenses or opportunities.
@@ -24,3 +24,17 @@ Quarterly reports from a company showing either higher or lower earnings per sha
 What is a the company's net profit margin determined by?; Dividing the money left over after paying all its expenses by the amount of money it had before paying expenses
 What does a high profit margin tell you about a company?; The company's management is good at controlling costs
 What is the price/book ratio?; Compares a stock's price to how much the stock is worth right now if someone liquidated the company.
+What is the official term of the book value per share?; Book value per share is common sotckholders' equity divided by outstanding shares
+What does having a book ratio of less than 1 mean?; You are paying less for the stock than its liquidation value. This is good because if the company goes bankrupt, you should still get your money back
+What is considered the king of value measures?; Price Earnings Ratio
+How do you calculate Price / Earnings ratio?; It is the price of a stock divided by its earnings per share.
+What is the difference between trailing P/E amd forward P/E?; Uses earnings from the last 12 months while foward P/E uses next year's projected earnings
+What important information does P/E tell you about a company; It tells you which companies are a good buy relative to another's ability to earn per share. Stock price itself is meaning less.
+What should you use a stock's P/E to determine?; You should use it to determine how much you're paying for a company's earning power
+Why is it riskier to invest in a high P/E stock than a low P/E stock?; Because it is more difficult for the high P/E to meet the high earnings expectations of its shareholders and analysts/
+What is price / sales ratio?; Price/sales compares price to sales revenue
+How do you calculate price/sales?; Take the total market value and divide it by the most recent four quarters of sales revenue
+What is the quick ratio?; Provides a more accurate look at a company's ability yo deal with short-term needs by dividing only the company's cash and equivalents by its current liabilities
+How do you calculate quick ratio?; Take the companie's Total Current Assets exluding Total Inventories and divide by Total Current Liabilities
+What is Return on Equity?; IT shows you the rate of return to shareholders by dividing net income by total shareholders' equity
+What are some metrics of fundamental analysis?; Company's management, rate of growth, how much it earns, and how much it pays to keep the lights on.
