@@ -38,7 +38,7 @@
 - front: "What is the most important fundamental measure in determining a company's intrinsic value?"
   back: "It's earnings: What it is earning now and what you can expect it to earn in the future."
   tags: ["chapter2"]
-- front: "What is the main measurement for technical analysts use to guage demand?"
+- front: "What is the main measurement for technical analysts use to gauge demand?"
   back: "Trading volume, trend charts, volatility, and small price movements"
   tags: ["chapter2"]
 - front: "How do you calculate cash flow per share?"
@@ -116,8 +116,8 @@
 - front: "What is Return on Equity?"
   back: "IT shows you the rate of return to shareholders by dividing net income by total shareholders' equity"
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "What are some metrics of fundamental analysis?"
+  back: "Company's management, rate of growth, how much it earns, and how much it pays to keep the lights on."
   tags: ["chapter2"]
 - front: ""
   back: ""
