@@ -17,11 +17,11 @@
 - front: "Why do we create an AWS IAM policy?"
   back: "To define the permissions for the IAM user. It will give the IAM user permissions to make calls to Selling Partner API."
   tags: []
-- front: ""
-  back: ""
+- front: "What is the Authorization API?"
+  back: "Lets you migrate Amazon MWS authorization that a seller has granted to a hybrid Selling Partner API application. This eliminates the need to request authorization from the seller again"
   tags: []
-- front: ""
-  back: ""
+- front: "When would you need to use the Authorization API? "
+  back: "Suppose you have published an Amazon MWS application on the Marketplace Appstore. A number of sellers have authorized you as an Amazon MWS developer so they can use your application. You later convert your Amazon MWS application into a hybrid Selling Partner API application that makes calls to both Amazon MWS and Selling Partner API. Now you want your application to make calls to Selling Partner API on behalf of these sellers without requesting authorization again. The Authorization API lets you do this."
   tags: []
 - front: ""
   back: ""
