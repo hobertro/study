@@ -1,0 +1,121 @@
+---
+- front: "How does monitoring empower you?"
+  back: "It allows you to catch complications before they develop into problems, and helps you preserve high availability and deliver high quality of service."
+  tags: []
+- front: "What does monitoring mean in the context of web applications?"
+  back: "Becoming aware of the state of the system"
+  tags: []
+- front: "What is monitoring?"
+  back: "The process of maintaining surveillance over the existence and magnitude of state change and data flow in a system."
+  tags: []
+- front: "What are the aims of monitoring?"
+  back: "Monitoring aims to identify faults and assist in their subsequent elimination"
+  tags: []
+- front: "What are the techniques used in monitoring?"
+  back: "Real-time processing, statistics, and data analysis"
+  tags: []
+- front: "What is alerting?"
+  back: "The capability of a monitoring system to detect and notify the operators about meaningful events that denote a grave change of state."
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
