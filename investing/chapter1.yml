@@ -149,42 +149,123 @@
 - front: "How is market cap determined?"
   back: "It is determined by multiplying the number of outstanding shares of stock by the current market price per share"
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "What do growth investors look for?"
+  back: "Companies that are sales and earning machines"
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "What are key company measurements that growth investors examine for companies?"
+  back: "Earnings and recent stock price strength"
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "Where do most new growth stocks trade on?"
+  back: "NASDAQ"
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "What types of stocks do value investors look for?"
+  back: "Stocks on the cheap"
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "What are the characteristics of a value stock?"
+  back: "Low P/E ratios and low price-to-book ratios"
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "What do value investors pay particular attention to?"
+  back: "Companies that pay dividends"
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "What are the two ways to evaluate a stock?"
+  back: "Fundamental and Technical Analysis"
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "What is fundamental analysis?"
+  back: "Examining a company's health and potential to succeed"
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "What is technical analysis?"
+  back: "Examine the past behavior of the stock price in different market conditions and attempts to predict the stock's future price based on current and projected market conditions and trading volume."
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "What do you use fundamental analysis information for?"
+  back: "To learn about the a company"
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "What do you use technical analysis information for?"
+  back: "To learn about a company's stock"
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "What is a company's intrinsic value?"
+  back: "The price a stock should sell at under normal market conditions"
   tags: ["chapter2"]
-- front: ""
-  back: ""
+- front: "What is the most important fundamental measure in determining a company's intrinsic value?"
+  back: "It's earnings: What it is earning now and what you can expect it to earn in the future."
+  tags: ["chapter2"]
+- front: "What is the main measurement for technical analysts use to gauge demand?"
+  back: "Trading volume, trend charts, volatility, and small price movements"
+  tags: ["chapter2"]
+- front: "How do you calculate cash flow per share?"
+  back: "Cash flow divided by the number of shares outstanding. This lets you see what price you're paying for a share of the company's cash flow."
+  tags: ["chapter2"]
+- front: "How do you calculate the current ratio?"
+  back: "Dividing current assets by current liabilities"
+  tags: ["chapter2"]
+- front: "What is the current ratio?"
+  back: "To gauge a company's ability to pay its short-term bills and how easily a company can deal with unexpected expenses or opportunities."
+  tags: ["chapter2"]
+- front: "What is a stock's dividend yield?"
+  back: "Its annual cash dividend divided by its current price"
+  tags: ["chapter2"]
+- front: "How do you calculate the dividend yield?"
+  back: "Divide annual dividend by the current price of hte stock"
+  tags: ["chapter2"]
+- front: "What is earnings per share?"
+  back: "Takes what a company earned and divides it by the number of stock shares outstanding"
+  tags: ["chapter2"]
+- front: "How is earnings per share calculated?"
+  back: "Earnings divided by stock shares outstanding"
+  tags: ["chapter2"]
+- front: "What is earnings momentum or earnings acceleration?"
+  back: "When the company's EPS increases quarter after quarter."
+  tags: ["chapter2"]
+- front: "Quarterly reports from a company showing either higher or lower earnings per share than expected are called what?"
+  back: "Earnings surprises"
+  tags: ["chapter2"]
+- front: "What is a the company's net profit margin determined by?"
+  back: "Dividing the money left over after paying all its expenses by the amount of money it had before paying expenses"
+  tags: ["chapter2"]
+- front: "What does a high profit margin tell you about a company?"
+  back: "The company's management is good at controlling costs"
+  tags: ["chapter2"]
+- front: "What is the price/book ratio?"
+  back: "Compares a stock's price to how much the stock is worth right now if someone liquidated the company."
+  tags: ["chapter2"]
+- front: "What is the official term of the book value per share?"
+  back: "Book value per share is common sotckholders' equity divided by outstanding shares"
+  tags: ["chapter2"]
+- front: "What does having a book ratio of less than 1 mean?"
+  back: "You are paying less for the stock than its liquidation value. This is good because if the company goes bankrupt, you should still get your money back"
+  tags: ["chapter2"]
+- front: "What is considered the king of value measures?"
+  back: "Price Earnings Ratio"
+  tags: ["chapter2"]
+- front: "How do you calculate Price / Earnings ratio?"
+  back: "It is the price of a stock divided by its earnings per share."
+  tags: ["chapter2"]
+- front: "What is the difference between trailing P/E amd forward P/E?"
+  back: "Uses earnings from the last 12 months while foward P/E uses next year's projected earnings"
+  tags: ["chapter2"]
+- front: "What important information does P/E tell you about a company"
+  back: "It tells you which companies are a good buy relative to another's ability to earn per share. Stock price itself is meaning less."
+  tags: ["chapter2"]
+- front: "What should you use a stock's P/E to determine?"
+  back: "You should use it to determine how much you're paying for a company's earning power"
+  tags: ["chapter2"]
+- front: "Why is it riskier to invest in a high P/E stock than a low P/E stock?"
+  back: "Because it is more difficult for the high P/E to meet the high earnings expectations of its shareholders and analysts/"
+  tags: ["chapter2"]
+- front: "What is price / sales ratio?"
+  back: "Price/sales compares price to sales revenue"
+  tags: ["chapter2"]
+- front: "How do you calculate price/sales?"
+  back: "Take the total market value and divide it by the most recent four quarters of sales revenue"
+  tags: ["chapter2"]
+- front: "What is the quick ratio?"
+  back: "Provides a more accurate look at a company's ability yo deal with short-term needs by dividing only the company's cash and equivalents by its current liabilities"
+  tags: ["chapter2"]
+- front: "How do you calculate quick ratio?"
+  back: "Take the companie's Total Current Assets exluding Total Inventories and divide by Total Current Liabilities"
+  tags: ["chapter2"]
+- front: "What is Return on Equity?"
+  back: "IT shows you the rate of return to shareholders by dividing net income by total shareholders' equity"
+  tags: ["chapter2"]
+- front: "What are some metrics of fundamental analysis?"
+  back: "Company's management, rate of growth, how much it earns, and how much it pays to keep the lights on."
   tags: ["chapter2"]
