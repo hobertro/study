@@ -17,8 +17,8 @@
 - front: "What is alerting?"
   back: "The capability of a monitoring system to detect and notify the operators about meaningful events that denote a grave change of state."
   tags: []
-- front: ""
-  back: ""
+- front: "What is the main purpose of monitoring?"
+  back: "Gain near real-time insight into the current state of the system, in the context of its recent performance."
   tags: []
 - front: ""
   back: ""
