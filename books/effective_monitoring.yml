@@ -20,8 +20,8 @@
 - front: "What is the main purpose of monitoring?"
   back: "Gain near real-time insight into the current state of the system, in the context of its recent performance."
   tags: []
-- front: ""
-  back: ""
+- front: "What should compete monitoring cover? (3)"
+  back: "Resource availability, software performance, and user behavior."
   tags: []
 - front: ""
   back: ""
