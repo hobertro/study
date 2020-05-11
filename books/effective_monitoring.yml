@@ -22,6 +22,11 @@
   tags: []
 - front: "What is time series data?"
   back: "Chronologically ordered lists of data points"
+- front: "What is the main purpose of monitoring?"
+  back: "Gain near real-time insight into the current state of the system, in the context of its recent performance."
+  tags: []
+- front: "What should compete monitoring cover? (3)"
+  back: "Resource availability, software performance, and user behavior."
   tags: []
 - front: "What is a metric?"
   back: "A data structure optimized for storage and retrieval of numeric inputs"

@@ -1,0 +1,151 @@
+---
+- front: "What does flex-direction do?"
+  back: "Specifies what direction the main axis runs in (what direction the flexbox children are laid out in)"
+  tags: ["css", "flexbox"]
+- front: "What does flex-direction: row do?"
+  back: "Causes flexbox children to be laid out in a row in the direction of your browser's default language works (in the same direction as text direction, along the main axes)"
+  tags: ["css", "flexbox"]
+- front: "What does flex-direction: column do?"
+  back: "Flexbox items are ordered the same way as the the text direction, along the cross axis."
+  tags: ["css", "flexbox"]
+- front: "What does flex-wrap do?"
+  back: "Flex-wrap sets whether flex items are forced onto one line or can wrap onto multiple lines"
+  tags: ["css", "flexbox"]
+- front: "What does flex-wrap: wrap vs nowrap do? wrap-reverse?"
+  back: "By default, flex-wwrap is nowrap. No wrap means the flex items will not wrap past the container and instead break into multiple lines, but wrap will allow overflow. Wrap reverse will wrap in the reverse order"
+  tags: ["css", "flexbox"]
+- front: "What does order do?"
+  back: "It is a property of an item in a flex or grid container and dictates the order it appears in the container."
+  tags: ["css", "flexbox"]
+- front: "What does justify-content do?"
+  back: ""
+  tags: ["css", "flexbox"]
+- front: "What does justify-content: center do?"
+  back: ""
+  tags: ["css", "flexbox"]
+- front: "What does align-items do?"
+  back: ""
+  tags: ["css", "flexbox"]
+- front: "What does align-items: center do?"
+  back: ""
+  tags: ["css", "flexbox"]
+- front: "What does align-items: baseline do?"
+  back: ""
+  tags: ["css", "flexbox"]
+- front: "What does align-content do?"
+  back: ""
+  tags: ["css", "flexbox"]
+- front: "What does the flex property do?"
+  back: "Answers the question of what you should do with extra space. At what proportion should I scale myself up or down when I have extra space or not enough space."
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
+- front: ""
+  back: ""
+  tags: ["css", "flexbox"]
