@@ -1,0 +1,17 @@
+What does flex-direction do?; Specifies what direction the main axis runs in (what direction the flexbox children are laid out in)
+What does flex-direction: row do?; Causes flexbox children to be laid out in a row in the direction of your browser's default language works (in the same direction as text direction, along the main axes)
+What does flex-direction: column do?; Flexbox items are ordered the same way as the the text direction, along the cross axis.
+What does flex-wrap do?; Flex-wrap sets whether flex items are forced onto one line or can wrap onto multiple lines
+What does flex-wrap: wrap vs nowrap do? wrap-reverse?; By default, flex-wwrap is nowrap. No wrap means the flex items will not wrap past the container and instead break into multiple lines, but wrap will allow overflow. Wrap reverse will wrap in the reverse order
+What does order do?; It is a property of an item in a flex or grid container and dictates the order it appears in the container.
+What does justify-content do?; The CSS justify-content property defines how the browser distributes space between and around content items along the main-axis of a flex container, and the inline axis of a grid container.
+What does justify-content: center do?; The items are packed flush to each other toward the center of the alignment container along the main axis.
+What does align-items do?; The CSS align-items property sets the align-self value on all direct children as a group. In Flexbox, it controls the alignment of items on the Cross Axis.
+What does align-items: center do?; The flex items' margin boxes are centered within the line on the cross-axis. If the cross-size of an item is larger than the flex container, it will overflow equally in both directions.
+What does align-items: baseline do?; All flex items are aligned such that their flex container baselines align.
+What does align-content do?; The CSS align-content property sets the distribution of space between and around content items along a flexbox's cross-axis or a grid's block axis.
+What does the flex property do?; Answers the question of what you should do with extra space. At what proportion should I scale myself up or down when I have extra space or not enough space.
+What does flex-basis do?; It specifies the initial size of the flex item, before any available space is distributed according to the flex factors. 
+What does flex-grow do?; It dictates what amount of the available space inside the flex container the item should take up.
+What does flex-shrink do?; The flex-shrink CSS property sets the flex shrink factor of a flex item. If the size of all flex items is larger than the flex container, items shrink to fit according to flex-shrink.
+When is the alignment done for justify-content?; The alignment is done after the lengths and auto margins are applied, meaning that, if in a Flexbox layout there is at least one flexible element, with flex-grow different from 0, it will have no effect as there won't be any available space.
