@@ -17,20 +17,25 @@
 - front: "What is alerting?"
   back: "The capability of a monitoring system to detect and notify the operators about meaningful events that denote a grave change of state."
   tags: []
+- front: "Why is it important to establish performance levels? (3)"
+  back: "It finds application in capacity planning, leads to data formulation of data-backed SLAs, and be a starting point for in-depth performance analysis."
+  tags: []
+- front: "What is time series data?"
+  back: "Chronologically ordered lists of data points"
 - front: "What is the main purpose of monitoring?"
   back: "Gain near real-time insight into the current state of the system, in the context of its recent performance."
   tags: []
 - front: "What should compete monitoring cover? (3)"
   back: "Resource availability, software performance, and user behavior."
   tags: []
-- front: ""
-  back: ""
+- front: "What is a metric?"
+  back: "A data structure optimized for storage and retrieval of numeric inputs"
   tags: []
-- front: ""
-  back: ""
+- front: "What are the important properties that describe data input? (2)"
+  back: "The origin of the measurement and its attributes such as units and time"
   tags: []
-- front: ""
-  back: ""
+- front: "What is a monitoring system?"
+  back: "A monitoring system is a set of software components that performs measurements and collects, stores, and interprets the monitored data"
   tags: []
 - front: ""
   back: ""
