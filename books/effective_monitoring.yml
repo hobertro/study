@@ -58,14 +58,14 @@
 - front: "The solution stack commonly consists of what three parts?"
   back: "The operating system, middleware, and an application on running on top."
   tags: []
-- front: ""
-  back: ""
+- front: "Application-level load measurements can be expressed through what?"
+  back: "Input levels (incoming traffic and number of submitted inputs) "
   tags: []
-- front: ""
-  back: ""
+- front: "What does summary statistics describe? (pg. 22)"
+  back: "Describes observed input sets by their centers (average or median), the total (sum, n), and the distribution and spread (percentiles and deviations)."
   tags: []
-- front: ""
-  back: ""
+- front: "What is frequency distribution? (pg. 22)"
+  back: "It is a summary of a data set that combines numeric items into groups and presents the groups in a manner that lets you quickly see their relative size."
   tags: []
 - front: ""
   back: ""
