@@ -32,8 +32,8 @@
 - front: "For the purpose of sizing up the CPU load value, what matters most?"
   back: "The total number of cores"
   tags: []
-- front: ""
-  back: ""
+- front: "What is the run queue length?"
+  back: "the sum of the number of processes that are currently running plus the number that are waiting (queued) to run."
   tags: []
 - front: ""
   back: ""
