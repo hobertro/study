@@ -37,26 +37,26 @@
 - front: "What is a monitoring system?"
   back: "A monitoring system is a set of software components that performs measurements and collects, stores, and interprets the monitored data"
   tags: []
-- front: ""
-  back: ""
+- front: "What is the main purpose of monitoring?"
+  back: "To gain near real-time insight into the current state of the system, in the context of its recent performance."
+  tags: ["monitoring"]
+- front: "The basic currency in the world of information systems is what?"
+  back: "Unit of capacity"
   tags: []
-- front: ""
-  back: ""
+- front: "The cost of any user activity can be expressed in what ?"
+  back: "The resources it uses"
   tags: []
-- front: ""
-  back: ""
+- front: "What is an example of a typical computation action in a web service environment?"
+  back: "A request. Every request takes resources: at a minimum it consumes memory and CPU cycles, but frequently it also reads and writes some data to other devices such as disk drives, introducing futher I/O cost"
   tags: []
-- front: ""
-  back: ""
+- front: "The depletion of any resource required to serve a request leads to what?"
+  back: "Performance bottleneck"
   tags: []
-- front: ""
-  back: ""
+- front: "Why is meeting load with additional capacity now always desireable?"
+  back: "Because of Denial fo Service attacks, where an attacker's object is to shut down the service by driving the saturation of the scarcest resource it can manipulate."
   tags: []
-- front: ""
-  back: ""
-  tags: []
-- front: ""
-  back: ""
+- front: "The solution stack commonly consists of what three parts?"
+  back: "The operating system, middleware, and an application on running on top."
   tags: []
 - front: ""
   back: ""

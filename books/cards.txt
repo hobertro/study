@@ -1,0 +1,20 @@
+How does monitoring empower you?; It allows you to catch complications before they develop into problems, and helps you preserve high availability and deliver high quality of service.
+What does monitoring mean in the context of web applications?; Becoming aware of the state of the system
+What is monitoring?; The process of maintaining surveillance over the existence and magnitude of state change and data flow in a system.
+What are the aims of monitoring?; Monitoring aims to identify faults and assist in their subsequent elimination
+What are the techniques used in monitoring?; Real-time processing, statistics, and data analysis
+What is alerting?; The capability of a monitoring system to detect and notify the operators about meaningful events that denote a grave change of state.
+Why is it important to establish performance levels? (3); It finds application in capacity planning, leads to data formulation of data-backed SLAs, and be a starting point for in-depth performance analysis.
+What is time series data?; Chronologically ordered lists of data points
+What is the main purpose of monitoring?; Gain near real-time insight into the current state of the system, in the context of its recent performance.
+What should compete monitoring cover? (3); Resource availability, software performance, and user behavior.
+What is a metric?; A data structure optimized for storage and retrieval of numeric inputs
+What are the important properties that describe data input? (2); The origin of the measurement and its attributes such as units and time
+What is a monitoring system?; A monitoring system is a set of software components that performs measurements and collects, stores, and interprets the monitored data
+What is the main purpose of monitoring?; To gain near real-time insight into the current state of the system, in the context of its recent performance.
+The basic currency in the world of information systems is what?; Unit of capacity
+The cost of any user activity can be expressed in what ?; The resources it uses
+What is an example of a typical computation action in a web service environment?; A request. Every request takes resources: at a minimum it consumes memory and CPU cycles, but frequently it also reads and writes some data to other devices such as disk drives, introducing futher I/O cost
+The depletion of any resource required to serve a request leads to what?; Performance bottleneck
+Why is meeting load with additional capacity now always desireable?; Because of Denial fo Service attacks, where an attacker's object is to shut down the service by driving the saturation of the scarcest resource it can manipulate.
+The solution stack commonly consists of what three parts?; The operating system, middleware, and an application on running on top.
