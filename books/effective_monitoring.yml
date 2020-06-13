@@ -25,7 +25,7 @@
 - front: "What is the main purpose of monitoring?"
   back: "Gain near real-time insight into the current state of the system, in the context of its recent performance."
   tags: []
-- front: "What should compete monitoring cover? (3)"
+- front: "What should complete monitoring cover? (3)"
   back: "Resource availability, software performance, and user behavior."
   tags: []
 - front: "What is a metric?"
@@ -58,44 +58,44 @@
 - front: "The solution stack commonly consists of what three parts?"
   back: "The operating system, middleware, and an application on running on top."
   tags: []
-- front: ""
-  back: ""
+- front: "What does a log parser do?"
+  back: "These extract specific information from log entries, such as the status codes and response times of requests from a web server log"
   tags: []
-- front: ""
-  back: ""
+- front: "What does a log scanner do?"
+  back: "These count occurrences of strings in log files, defined by regular expressions. For instance, to look for both regular errors and critical errors, you can check the number of occurrences of the regex 'ERROR|CRITICAL' in a log file"
   tags: []
-- front: ""
-  back: ""
+- front: "What are interface readers?"
+  back: "These read and interpret system and device interfaces. Examples include readings of CPU utilization from a Lniux pseudo-filesystem and readings of temperature or humidity from specialized devices"
   tags: []
-- front: ""
-  back: ""
+- front: "What are probers?"
+  back: "These run outside the monitored system and send requests to the system to check its response, such as ping requests or HTTP calls to a website to verify availability"
   tags: []
-- front: ""
-  back: ""
+- front: "What are sniffers?"
+  back: "These monitor network interfaces and analyze traffic statistics such as number of trasmitted packets, broken down by protocol"
   tags: []
-- front: ""
-  back: ""
+- front: "What is monitoring overhead?"
+  back: "The amount of resources the monitoring agents consume on the monitored entity"
   tags: []
-- front: ""
-  back: ""
+- front: "What changes with load?"
+  back: "Resource usage patterns"
   tags: []
-- front: ""
-  back: ""
+- front: "What is the single most important advantage of using timeseries for monitoring?"
+  back: "Their property of accurately illustrating the process of change in a context of historical data."
   tags: []
-- front: ""
-  back: ""
+- front: "Whta do two indepedent timeseries always share?"
+  back: "The dimension of time"
   tags: []
-- front: ""
-  back: ""
+- front: "How do summary statistics describe observed input?"
+  back: "By their centers (average or median), the total (sum, n), and the distribution and spread (precentiles and deviations)."
   tags: []
-- front: ""
-  back: ""
+- front: "What type of statistics can summarize huge data sets in a compact and concise way?"
+  back: "Summary statistics"
   tags: []
-- front: ""
-  back: ""
+- front: "What is frequency distribution?"
+  back: "A summary of a data set that combines numberic items into groups nad presents the groups in a manner that lets you quickly see their relative size"
   tags: []
-- front: ""
-  back: ""
+- front: "What does a number on a percentile show?"
+  back: "How many values are smaller than the value of that percentile"
   tags: []
 - front: ""
   back: ""
