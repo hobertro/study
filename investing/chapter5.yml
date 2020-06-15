@@ -1,12 +1,12 @@
 ---
-- front: ""
-  back: ""
+- front: "What is a stop order?"
+  back: "A stop order becomes a market order when the price you have specified is reached"
   tags: []
-- front: ""
-  back: ""
+- front: "What is a stop loss order?"
+  back: "If you sell a stock at a price lower than it currently trades for. Think of it as a stop loss to stopping your potential loss and protecting the profit you have already gained."
   tags: []
-- front: ""
-  back: ""
+- front: "What is a stop limit order?"
+  back: "You specify the price at which you want the stop order to kick in, then you specify the price at which you want the limit order to trade."
   tags: []
 - front: ""
   back: ""
