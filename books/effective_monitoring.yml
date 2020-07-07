@@ -22,6 +22,7 @@
   tags: []
 - front: "What is time series data?"
   back: "Chronologically ordered lists of data points"
+  tags: []
 - front: "What is the main purpose of monitoring?"
   back: "Gain near real-time insight into the current state of the system, in the context of its recent performance."
   tags: []
