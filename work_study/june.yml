@@ -1,0 +1,151 @@
+---
+- front: "What does the Rspec matcher 'contain_exactly do?'"
+  back: "Provides a way to test arrays against each other in a way that disregards differences in the ordering between the actual and expected array"
+  tags: ["rspec"]
+- front: "How would you search ActiveRecord for the value of 'http://some_url.com' in a jsonb column 'data' with nested keys 'images' and 'thumbnail?''"
+  back: "Photo.where(\"data->'images'->'thumbnail'->>'url' = 'http://some_url.com'\")"
+  tags: ["postgres"]
+- front: "What does TempFile#bin_mode method do?"
+  back: "Puts ios into binary mode. Once a stream is in binary mode, it cannot be reset to nonbinary mode. (Content is treated as ASCII-8BIT)"
+  tags: ["ruby"]
+- front: "What does Zip#get_input_stream do?"
+  back: ""
+  tags: ["ruby"]
+- front: "What does ruby IO#read method do?"
+  back: "Reads length bytes from the I/O stream"
+  tags: ["ruby"]
+- front: "What does Input/Output generally mean?"
+  back: "The way that a comptuer interacts the world. Screens, keyboards, and networks are all forms of I/O. Data from these devices is sent to and from programs as a stream of characters/bytes."
+  tags: ["unix"]
+- front: "Unix-like systems treat all external devices as what?"
+  back: "files"
+  tags: ["unix"]
+- front: "What does the Ruby IO class do?"
+  back: "It wraps Input/Output streams. The constants STDIN, STDOUT, and STDERR point to IO objects wrapping the standard streams."
+  tags: ["unix"]
+- front: "What is a file descriptor?"
+  back: "I/O streams that are located under the /dev/fd directory in unix systems."
+  tags: ['unix']
+- front: "What are the 3 streams provided by unix OS by default?"
+  back: "Standard input (/dev/fd/0), standard output (/dev/fd/1), standard error (/dev/fd/2)"
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []

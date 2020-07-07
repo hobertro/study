@@ -66,6 +66,14 @@
   tags: []
 - front: "What are interface readers?"
   back: "These read and interpret system and device interfaces. Examples include readings of CPU utilization from a Lniux pseudo-filesystem and readings of temperature or humidity from specialized devices"
+- front: "Application-level load measurements can be expressed through what?"
+  back: "Input levels (incoming traffic and number of submitted inputs) "
+  tags: []
+- front: "What does summary statistics describe? (pg. 22)"
+  back: "Describes observed input sets by their centers (average or median), the total (sum, n), and the distribution and spread (percentiles and deviations)."
+  tags: []
+- front: "What is frequency distribution? (pg. 22)"
+  back: "It is a summary of a data set that combines numeric items into groups and presents the groups in a manner that lets you quickly see their relative size."
   tags: []
 - front: "What are probers?"
   back: "These run outside the monitored system and send requests to the system to check its response, such as ping requests or HTTP calls to a website to verify availability"
