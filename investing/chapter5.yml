@@ -8,8 +8,8 @@
 - front: "What is a stop limit order?"
   back: "You specify the price at which you want the stop order to kick in, then you specify the price at which you want the limit order to trade."
   tags: []
-- front: ""
-  back: ""
+- front: "What is price-to-sales ratio considered a more accurate measure of a company's value?"
+  back: "Because sales can't be manipulated as easily as earnings."
   tags: []
 - front: ""
   back: ""
