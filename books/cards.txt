@@ -21,6 +21,9 @@ The solution stack commonly consists of what three parts?; The operating system,
 What does a log parser do?; These extract specific information from log entries, such as the status codes and response times of requests from a web server log
 What does a log scanner do?; These count occurrences of strings in log files, defined by regular expressions. For instance, to look for both regular errors and critical errors, you can check the number of occurrences of the regex 'ERROR|CRITICAL' in a log file
 What are interface readers?; These read and interpret system and device interfaces. Examples include readings of CPU utilization from a Lniux pseudo-filesystem and readings of temperature or humidity from specialized devices
+Application-level load measurements can be expressed through what?; Input levels (incoming traffic and number of submitted inputs) 
+What does summary statistics describe? (pg. 22); Describes observed input sets by their centers (average or median), the total (sum, n), and the distribution and spread (percentiles and deviations).
+What is frequency distribution? (pg. 22); It is a summary of a data set that combines numeric items into groups and presents the groups in a manner that lets you quickly see their relative size.
 What are probers?; These run outside the monitored system and send requests to the system to check its response, such as ping requests or HTTP calls to a website to verify availability
 What are sniffers?; These monitor network interfaces and analyze traffic statistics such as number of trasmitted packets, broken down by protocol
 What is monitoring overhead?; The amount of resources the monitoring agents consume on the monitored entity
