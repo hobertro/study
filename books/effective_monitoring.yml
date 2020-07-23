@@ -123,8 +123,8 @@
 - front: "What are the counter timeseries patterns attributed to?"
   back: "Occurs with stock metrics, where a discrete value keeps increasing until it gets flushed."
   tags: []
-- front: ""
-  back: ""
+- front: "The flattening effect anomaly usually signifies what?"
+  back: "A saturation of a resource of discontinuation of flow"
   tags: []
 - front: ""
   back: ""
