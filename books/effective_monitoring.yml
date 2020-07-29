@@ -106,20 +106,20 @@
 - front: "What does a number on a percentile show?"
   back: "How many values are smaller than the value of that percentile"
   tags: []
-- front: ""
-  back: ""
+- front: "Why does the rentention period for resource utilization metrics only need to be 4 weeks?"
+  back: "As the system evolves, gets upgraded, and changes scale, the specific performance information becomes less and less relevant. A little bit of historical context is necessary to make reliable assumptions while troubleshooting, but retaining I/O and CPU data for each individual host beyond this period is of little value"
   tags: []
-- front: ""
-  back: ""
+- front: "What type of metrics are used for a more universal kind of information that should be retained longer to be analyzed for trend and seasonality?"
+  back: "Usage patterns of the application that demonstrate the overall effectiveness of the service of your system"
   tags: []
-- front: ""
-  back: ""
+- front: "When you measure demand progression metrics, what should you exclude?"
+  back: "Exclude inconsiderable variables that are present in resource utilization metrics."
   tags: []
-- front: ""
-  back: ""
+- front: "Systems with seasonal usage patterns must identify and capture what indicators and why?"
+  back: "Demand indicators so you can plan capacity accurately"
   tags: []
-- front: ""
-  back: ""
+- front: "What types of metrics are the best choice for usage patterns?"
+  back: "Traffic metrics."
   tags: []
 - front: ""
   back: ""
