@@ -29,8 +29,19 @@ What are sniffers?; These monitor network interfaces and analyze traffic statist
 What is monitoring overhead?; The amount of resources the monitoring agents consume on the monitored entity
 What changes with load?; Resource usage patterns
 What is the single most important advantage of using timeseries for monitoring?; Their property of accurately illustrating the process of change in a context of historical data.
-Whta do two indepedent timeseries always share?; The dimension of time
+What do two independent timeseries always share?; The dimension of time
 How do summary statistics describe observed input?; By their centers (average or median), the total (sum, n), and the distribution and spread (precentiles and deviations).
 What type of statistics can summarize huge data sets in a compact and concise way?; Summary statistics
 What is frequency distribution?; A summary of a data set that combines numberic items into groups nad presents the groups in a manner that lets you quickly see their relative size
 What does a number on a percentile show?; How many values are smaller than the value of that percentile
+Why does the rentention period for resource utilization metrics only need to be 4 weeks?; As the system evolves, gets upgraded, and changes scale, the specific performance information becomes less and less relevant. A little bit of historical context is necessary to make reliable assumptions while troubleshooting, but retaining I/O and CPU data for each individual host beyond this period is of little value
+What type of metrics are used for a more universal kind of information that should be retained longer to be analyzed for trend and seasonality?; Usage patterns of the application that demonstrate the overall effectiveness of the service of your system
+When you measure demand progression metrics, what should you exclude?; Exclude inconsiderable variables that are present in resource utilization metrics.
+Systems with seasonal usage patterns must identify and capture what indicators and why?; Demand indicators so you can plan capacity accurately
+What types of metrics are the best choice for usage patterns?; Traffic metrics.
+What is required for drawing reliable conclusions from a timeseries plot?; A solid understanding of data presented
+What are the three types of (metric) units?; Amount, time delay, amount per time
+What are some examples of the time delay type of unit?; Latency, web request response time, time spent by a user
+What are spiky timeseries patterns attributed to?; High variability and burstiness of inputs: their sudden change in their values or quantity
+What are steady timeseries patterns attributes to? When is this pattern seen?; This appears when data point values have a low variability at a non-zero level. This pattern is seen when measuring availability and underutilized resources.
+What are the counter timeseries patterns attributed to?; Occurs with stock metrics, where a discrete value keeps increasing until it gets flushed.
