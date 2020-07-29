@@ -91,7 +91,7 @@
 - front: "What is the single most important advantage of using timeseries for monitoring?"
   back: "Their property of accurately illustrating the process of change in a context of historical data."
   tags: []
-- front: "Whta do two indepedent timeseries always share?"
+- front: "What do two independent timeseries always share?"
   back: "The dimension of time"
   tags: []
 - front: "How do summary statistics describe observed input?"
@@ -120,9 +120,23 @@
   tags: []
 - front: "What types of metrics are the best choice for usage patterns?"
   back: "Traffic metrics."
+- front: "What is required for drawing reliable conclusions from a timeseries plot?"
+  back: "A solid understanding of data presented"
   tags: []
-- front: ""
-  back: ""
+- front: "What are the three types of (metric) units?"
+  back: "Amount, time delay, amount per time"
+  tags: []
+- front: "What are some examples of the time delay type of unit?"
+  back: "Latency, web request response time, time spent by a user"
+  tags: []
+- front: "What are spiky timeseries patterns attributed to?"
+  back: "High variability and burstiness of inputs: their sudden change in their values or quantity"
+  tags: []
+- front: "What are steady timeseries patterns attributes to? When is this pattern seen?"
+  back: "This appears when data point values have a low variability at a non-zero level. This pattern is seen when measuring availability and underutilized resources."
+  tags: []
+- front: "What are the counter timeseries patterns attributed to?"
+  back: "Occurs with stock metrics, where a discrete value keeps increasing until it gets flushed."
   tags: []
 - front: ""
   back: ""
