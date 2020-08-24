@@ -126,6 +126,36 @@
 - front: "The flattening effect anomaly usually signifies what?"
   back: "A saturation of a resource of discontinuation of flow"
   tags: []
+- front: "What are the three logical steps to determining causality?"
+  back: "Finding a correlation, establish a direction, rule out confounding factors"
+  tags: []
+- front: "What is the first thing that you look for when attempting to find a correlation for unwanted emergent system events?"
+  back: "Identifying unwanted symptoms. To find the potential cause, gather and jutxapose timeseries from other system metrics that display similar levels of abnormality. Keep checking successively for metrics originating form layers or components surrounding the one that reveals symptoms."
+  tags: []
+- front: "When you encounter performance issues, what type of metrics should you check first?"
+  back: "Check levels of resource utilization"
+  tags: []
+- front: "When you encounter higher-level problems related to a specific service, which metrics should you check first?"
+  back: "Metrics generated from system logs"
+  tags: []
+- front: "How do you rule out a confounding factor?"
+  back: "Try to switch off or restart the suspected faulty components separately, on each of its own hosts."
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
 - front: ""
   back: ""
   tags: []
