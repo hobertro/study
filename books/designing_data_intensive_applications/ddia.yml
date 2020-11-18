@@ -1,0 +1,151 @@
+---
+- front: "What is scalability?"
+  back: "The ability for a system to cope with increased load"
+  tags: ["scalability"]
+- front: "What are load parameters and what are the best choice for load parameters on a system?"
+  back: "The best choice of parameters depends on the architecture of your system."
+  tags: []
+- front: "What is throughput?"
+  back: "The number of records that we can process per second, or the total time it takes to run a job on a dataset of a certain size"
+  tags: []
+- front: "What is latency?"
+  back: "Latency is the duration that a request is waiting to be handled - during which it is latent, awaiting service."
+  tags: []
+- front: "What is reponse time?"
+  back: "Response time is what the client sees, besides the actual time to process the request, it includes network delays and queueing delays"
+  tags: []
+- front: "Why isn't the mean a very good metric if you want to know your typical response time?"
+  back: "Because it doesn't tell you many users actually experienced that delay"
+  tags: []
+- front: "What does it mean for a system to be elastic?"
+  back: "The system can automatically add resources when it detects a load increase"
+  tags: []
+- front: "The architecture that scales well for a particular application is built around what assumption?"
+  back: "Which operations will be common and which operations will be rare - the load parameters."
+  tags: []
+- front: "What are some examples of load parameters? (5)"
+  back: "Volume of reads, volume of writes, the volume of data to store, the complexity of the data, the response time requirements."
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
