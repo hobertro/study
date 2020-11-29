@@ -1,0 +1,12 @@
+What does React.createElement() do?; Create and return a new React element of the given type.
+What are the 3 types of types that React.createElement() can return?; a tag name string (such as 'div' or 'span'), a React component (a class or function), or a React fragment type
+What does ReactDom.render(element, ctonatiner[, callback]) do?; Render a React element into the DOM in the supplied container and return a reference to the component (or returns null for stateless components)
+What is declarative programming?; It is a programming paradigm - a style of building the structure and elements of computer programs - that expresses the logic of a computation without describing its control flow.
+What does kind of parameters do React components take in and what do they return?; 'props' and return a hierarchy of views to display via the render method
+Where do you set state in the React component? Should it be considered public or private?; React components can have state by setting this.state in their constructors. It should be considered private
+What does calling setState from the render method do?; It tells React to re-render the component and to automatically update the child compoenents inside of it.
+How do you collect data from multiple children or have two child components communicate with each other?; You need to declare the shared state in their parent component instead.
+How does the parent component pass state back down to the children?; It can pass state back down to the children by using props, this keeps the child components in sync iwth each other and with the parent component
+What are the 3 reasons why we want to create copies of our data instead of directly mutating them?; Complex features become simple, detecting changes, determining when to Re-Redner in React.
+What is the main benefit of immutability in React?; It helps you build pure components, immutable data can easily determine if changes have been made, which helps to determine when a component requires re-rendering
+What is a function component?; They are a simpler way to write components that only contain a render method and don't have their own state.
