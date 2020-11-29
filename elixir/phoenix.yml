@@ -1,27 +1,27 @@
 ---
-- front: "How is Javascript related to Java?"
-  back: "It isn't"
+- front: "What does the Repo preload functionality do?"
+  back: "Fetches a schema's association data from the database, then places it inside the schema."
   tags: []
-- front: "In what environments can Javascript be excuted? Browser? Server? Both?"
-  back: "Both"
+- front: "What is a changeset?"
+  back: "Changesets define a pipeline of transformations our data needs to undergo before it will be ready for our application to use. "
   tags: []
-- front: "What does setTimeout do?"
-  back: "setTimeout allows us to run a function once after the interval of time"
+- front: "What are Ecto Repos?"
+  back: "Interface into a storage system."
   tags: []
-- front: "What does setInterval do?"
-  back: "Allows us to run a function repeatedly, starting after the interval of time, then repeating continuously at that interval."
+- front: "In Phoenix, what is a view?"
+  back: "It is a module containing rendering functions that convert data into a format that the end user will consume, like HTML or JSON."
   tags: []
-- front: "How does a nested setTimeout more flexible than setInterval?"
-  back: "Nested setTimeout allows to set the delay between the executions more precisely than setInterval, for example, changing the the time the function will run next or adding"
+- front: "In Phoenix, what is a template?"
+  back: "A template is a function on that a module, compiled from a file containing raw markup language and embedded Elixir code to process substitutions and loops."
   tags: []
-- front: "What is the difference between Math.ceil and Math.floor?"
-  back: "The Math.ceil() function always rounds a number up to the next largest integer while The Math.floor() function returns the largest integer less than or equal to a given number."
+- front: "What is Ecto?"
+  back: "Elixir framework for persisting data"
   tags: []
-- front: ""
-  back: ""
+- front: "What are changesets?"
+  back: "Holds all changes you want to perform on the database and encapsulates the whole process of receiving external data, casting and validating it before writing it to the database."
   tags: []
-- front: ""
-  back: ""
+- front: "What do changesets do?"
+  back: "Changesets are use to build a customed strategy for dealing with each specific kind of change, such as creating a user or updating sensitive information."
   tags: []
 - front: ""
   back: ""
