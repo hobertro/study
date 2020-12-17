@@ -1,36 +1,36 @@
 ---
-- front: "What is SSH?"
-  back: "It is a tool for managing networks, operating systems, and configurations"
-  tags: ["ssh", "linux"]
-- front: "Fundamentally, what do SSH keys resemble and what purpose do they serve?"
-  back: "Functionally SSH keys resemble passwords. They grant access and control who can access what."
-  tags: ["ssh", "linux"]
-- front: "What are authorized keys and what are they analogous to?"
-  back: "Authorized keys are public keys that grant access. They are analogous to locks that the corresponding private key can open"
+- front: "What is the difference between the bang versions of the methods?"
+  back: "The bang versions (e.g. save!) raise an exception if the record is invalid."
   tags: []
-- front: "What are identity keys?"
-  back: "They are private keys that an SSH client uses to authenticate itself when logging into an SSH server. They are analogous to phyiscal keys that can open one more more licks"
+- front: "Which method runs validations on your models?"
+  back: "the #valid? method"
   tags: []
-- front: "Authorized keys and identity keys are jointly called what?"
-  back: "User keys"
+- front: "Which method lets you create methods to verify the state of your models and add messages to the errors collection?"
+  back: "#validate class method"
   tags: []
-- front: "What is the session key used for?"
-  back: "It is the encryption key used for encrypting the bulk of the data in a connection."
-  tags: []
-- front: "What is key based authentication in SSH called?"
-  back: "Public key authentication"
-  tags: []
-- front: "SSH keys are typically configured in what file?"
-  back: "authorized_keys file in the .ssh dubdirectory"
-  tags: []
-- front: "What is OpenSSH?"
+- front: ""
   back: ""
   tags: []
-- front: "What are passphrases?"
+- front: ""
   back: ""
   tags: []
-- front: "What is ssh-agent?"
-  back: "A program that comes with SSH that can hold a user's decrypted private keys in memory and use them to authenticate logins."
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
   tags: []
 - front: ""
   back: ""
