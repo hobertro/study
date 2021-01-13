@@ -35,11 +35,11 @@
 - front: "What is a function component?"
   back: "They are a simpler way to write components that only contain a render method and don't have their own state."
   tags: []
-- front: ""
-  back: ""
+- front: "What are the 'lifecycle' methods in react and what do they do?"
+  back: "componentDidMount and componentWillUnmount.componentDidMount() method runs after the component output has been rendered to the DOM"
   tags: []
-- front: ""
-  back: ""
+- front: "How is sharing state accomplished in React?"
+  back: "Moving it up to the closest common ancesotr of components that need it"
   tags: []
 - front: ""
   back: ""
