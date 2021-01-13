@@ -1,0 +1,151 @@
+---
+- front: "What is basic auth?"
+  back: "A way for a http user agent to provide a name and password when making a request"
+  tags: []
+- front: "How is the username and password provided in the request?"
+  back: "A request contains a header field in the form of 'Authorization: Basic <credentials>', where credentials is the Base64 encoding of username and password joined by a single colon."
+  tags: []
+- front: "What is Oauth2?"
+  back: "An authorization framework that enables applications to obtain limited user accounts on an HTTP service"
+  tags: []
+- front: "How does Oauth2 work in general?"
+  back: "It delegates authentication to the services that hosts the user account, and authorizing third-party applications to access the user account."
+  tags: []
+- front: "What is the Doorkeeper gem?"
+  back: "Is a gem that makes it easy to introduce Oauth2 provider functionality to any RoR application."
+  tags: []
+- front: "What does the render_template rspec matcher do?"
+  back: "Used to specify a request renders a given template or layout"
+  tags: ["rspec", "testing"]
+- front: "Where can you use the render_template?"
+  back: "It is available in controller specs and request specs"
+  tags: ["rspec", "testing"]
+- front: "What is Turbolinks?"
+  back: "A library that uses AJAX to render your views on the server side"
+  tags: []
+- front: "What is unobtrusive javascript?"
+  back: "Not mixing javascript into our html and using the data attribute to add behavior."
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
+- front: ""
+  back: ""
+  tags: []
