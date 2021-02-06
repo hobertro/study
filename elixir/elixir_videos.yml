@@ -32,44 +32,44 @@
 - front: 'What does the child spec function on the GenServer do?'
   back: 'Returns a child spec which is an elixir map specifying how the supervisor should start and supervise the child process.'
   tags: []
-- front: ''
-  back: ''
+- front: 'What is Elixir Registry module?'
+  back: 'A local, decentralized and scalable key-value process storage.'
   tags: []
-- front: ''
-  back: ''
+- front: 'What does the Elixir Registry module do?'
+  back: 'It allows developers to look up one or more processes with a given key.'
   tags: []
-- front: ''
-  back: ''
+- front: 'What does GenServer.whereis() do?'
+  back: 'Returns the PID of a process if given a via tuple'
   tags: []
-- front: ''
-  back: ''
+- front: 'What are the three attributes of Elixir Processes? (3)'
+  back: 'They are isolated from each other, run concurrent to one another, and communicate via message passing.'
   tags: []
-- front: ''
-  back: ''
+- front: 'What does the spawn function do?'
+  back: 'Returns a PID and will execute the given function and exit after the function is done'
   tags: []
-- front: ''
-  back: ''
+- front: 'What does the Process.self() method do?'
+  back: 'Returns its PID'
   tags: []
-- front: ''
-  back: ''
+- front: 'What does the the send() method do?'
+  back: 'Send messages to processes'
   tags: []
-- front: ''
-  back: ''
+- front: 'What does the receive() method do?'
+  back: 'The receive block takes a message that is sent to the process and searches for a message that matches any of the given patterns.'
   tags: []
-- front: ''
-  back: ''
+- front: 'What does the inspect method do?'
+  back: 'Covert's a data structure's internal representation into a string.'
   tags: []
-- front: ''
-  back: ''
+- front: 'How do processes maintain state?'
+  back: 'We can write a process that loops infinitely, maintain state, and send and receive messages.'
   tags: []
-- front: ''
-  back: ''
+- front: 'What are Agents?'
+  back: 'They are simple wrappers around state.'
   tags: []
-- front: ''
-  back: ''
+- front: 'For GenServer messages, what are the two types of messages?'
+  back: 'Cast and call messages'
   tags: []
-- front: ''
-  back: ''
+- front: 'For GenServe messages, what is the difference between the two messages Call and Cast?'
+  back: 'Call messages expect a reply  while cast messages do now'
   tags: []
 - front: ''
   back: ''

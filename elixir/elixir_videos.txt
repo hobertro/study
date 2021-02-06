@@ -1,0 +1,11 @@
+How do you register a process PID with a name?; Use Process.register(pid, :name_of_server)
+What good is using a name for a server instead of its PID?; Instead of needing the PID, you can send to the server with that name
+What is the downside of the using a name of the server vs the pid?; If you forgot that you have changed the name of the process, you might forget all the places the name is used
+How do you get a the messages of a process?; Process.info(self(), :messages)
+How does a process know to repeatedly call a function?; Schedule a refresh function to schedule another message to the server/process
+What does Genserver init do?; Function that is invoked when the server is started. start_link/3 or start/3 will block until it returns. Returning {:ok, state} will cause start_link/3 to return {:ok, pid} and the process to enter its loop.
+What is supervisor?; A supervisor is a process which supervises other processes, which we refer to as child processes.
+What does the start_link method do?; Starts a supervisor with the given children. The children is a list of modules, two-element tuples with module and arguments or a map with the child specification.
+What are your supervisors used to build?; A hierarchical process structure called a supervision tree.
+What is the main advantage of using a supervision tree?; Supervision tress provide fault-tolerance and encapsulate how our applications start and shutdown.
+What does the child spec function on the GenServer do?; Returns a child spec which is an elixir map specifying how the supervisor should start and supervise the child process.
